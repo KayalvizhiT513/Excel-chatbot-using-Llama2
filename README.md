@@ -24,7 +24,7 @@ Check out our video demo on YouTube:
 - **FAISS**: For fast vector searches.
 - **Llama 2**: As the language model.
 
-## Getting Started
+## Getting Started ⭐
 1. Clone this repository:
    ```bash
    git clone https://github.com/KayalvizhiT513/Excel-chatbot-using-Llama2.git
